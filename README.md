@@ -24,22 +24,6 @@ Hi there! I'm **Roman Wu**, a passionate Software Engineer with a strong focus o
 - **AWS Certified Solutions Architect Professional**
 - **Databricks Certified Data Engineer**
 
-## 🔨 Projects
-
-### [McKeil Marine Ltd](https://www.mckeil.com/)
-**Business Analyst** | *Jun 2024 – Present*  
-- Led data-driven decision-making through integration of **SQL** and **PL/SQL** in optimizing shipping operations.
-- Engineered solutions to streamline operations using **AWS services**.
-
-### [Prologic Consulting](https://www.prologic.com/)
-**Software Engineer** | *Jan 2023 – Jun 2024*  
-- Developed and maintained microservices using **Spring Boot** and **AWS**, improving system reliability and scalability.
-- Created CI/CD pipelines using **Jenkins** and **Docker**, reducing deployment times by 40%.
-
-### [Sojo Canada Inc.](https://www.sojo.ca/)
-**Software Engineer Intern** | *Sep 2022 – Dec 2022*  
-- Assisted in developing a RESTful API using **Spring MVC**, optimizing queries with **Hibernate**.
-
 ## 💼 Experience
 
 | **Role** | **Company** | **Duration** |
