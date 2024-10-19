@@ -18,15 +18,6 @@ Hi there! I'm **Roman Wu**, a passionate Software Engineer with a strong focus o
 - **AWS Certified Solutions Architect Professional**
 - **Databricks Certified Data Engineer**
 
-## 💼 Experience
-
-| **Role** | **Company** | **Duration** |
-|----------|--------------|--------------|
-| Business Analyst | McKeil Marine Ltd | Jun 2024 – Present |
-| Software Engineer | Prologic Consulting | Jan 2023 – Jun 2024 |
-| Software Engineer Intern | Sojo Canada Inc. | Sep 2022 – Dec 2022 |
-| Operations Analyst Intern | Harvest Fund Management | Sep 2021 – Dec 2021 |
-
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanywu)
