@@ -1,20 +1,24 @@
 Hi! I'm **Roman**, a Software Engineer with a passion for backend development and cloud infrastructure. I specialize in building scalable, high-performance systems and enjoy learning new technologies.
 
-- 🌱 Currently exploring **Spring Boot**, **AWS**, and **Microservices Architecture**.
-- 🚀 Skilled in creating cloud-native solutions and containerized apps using **Docker** and **Kubernetes**.
-- 🎓 Bachelor's in Mathematics from the **University of Waterloo**.
+## 🛠️ Dev Experience Highlights
 
-## 🛠️ Technical Skills
+🌐 **Backend Engineer**: Designed and implemented cloud-native microservices, optimizing performance and scalability.  
+👨🏻‍💻 **Cloud Solutions Expert**: Built and deployed containerized applications on AWS using **Docker** and **Kubernetes**.
 
-### Programming Languages
-- **Java**, **Python**, **SQL**, **NoSQL**, **GraphQL**, **Shell Scripting**
+## 💡 Other Interests
 
-### Technologies & Tools
-- **Spring Boot**, **AWS**, **Redis**, **Docker**, **Kubernetes**, **Jenkins**, **Databricks**, **MyBatis**, **Hibernate**, **Nginx**, **RabbitMQ**, **Oracle**, **Git**, **OAuth2**, **Postman**, **MongoDB**
+🕶️ **Distributed Systems**: Passionate about optimizing architectures for large-scale systems and high availability.  
+🔍 **Cloud Infrastructure**: Continuously learning and working with modern cloud tools like **AWS**, **Redis**, and **Databricks**.
 
-### Certifications
-- **AWS Solutions Architect Professional**
+## 🏅 Certifications
+
+- **AWS Certified Solutions Architect Professional**  
 - **Databricks Certified Data Engineer**
+
+## 🌟 Open to New Opportunities
+
+👀 Actively Seeking: **Full-time Software Engineering** roles for 2025.  
+📄 **Resume**: [Download Here]
 
 ## 📫 How to reach me
 
