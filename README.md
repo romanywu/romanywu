@@ -1,21 +1,21 @@
 ## About Me
 
-Hi there! I'm **Roman Wu**, a passionate Software Engineer with a strong focus on backend development and cloud infrastructure. I enjoy creating scalable, high-performance systems and love learning new technologies to tackle complex challenges.
+Hi! I'm **Roman Wu**, a Software Engineer with a passion for backend development and cloud infrastructure. I specialize in building scalable, high-performance systems and enjoy learning new technologies.
 
-- 🌱 Currently diving deep into **Spring Boot**, **AWS**, and **Microservices Architecture**.
-- 🚀 Experienced with building cloud-native solutions and containerized applications using **Docker** and **Kubernetes**.
-- 🎓 Graduated from the **University of Waterloo** with a Bachelor of Mathematics.
+- 🌱 Currently exploring **Spring Boot**, **AWS**, and **Microservices Architecture**.
+- 🚀 Skilled in creating cloud-native solutions and containerized apps using **Docker** and **Kubernetes**.
+- 🎓 Bachelor's in Mathematics from the **University of Waterloo**.
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- **Java**, **Python**, **SQL**, **PL/SQL**, **NoSQL**, **GraphQL**, **JavaScript/TypeScript**, **Shell Scripting**, **VBA**
+- **Java**, **Python**, **SQL**, **NoSQL**, **GraphQL**, **JavaScript/TypeScript**, **Shell Scripting**
 
 ### Technologies & Tools
-- **Spring Boot**, **Spring MVC**, **AWS** (EC2, S3, RDS, Lambda, CodePipeline), **Redis**, **Docker**, **Kubernetes**, **Jenkins**, **Databricks**, **MyBatis**, **Hibernate**, **Nginx**, **RabbitMQ**, **Zookeeper**, **Mulesoft**, **Oracle**, **Git**, **MySQL**, **OAuth2**, **Postman**, **MongoDB**
+- **Spring Boot**, **AWS**, **Redis**, **Docker**, **Kubernetes**, **Jenkins**, **Databricks**, **MyBatis**, **Hibernate**, **Nginx**, **RabbitMQ**, **Oracle**, **Git**, **OAuth2**, **Postman**, **MongoDB**
 
 ### Certifications
-- **AWS Certified Solutions Architect Professional**
+- **AWS Solutions Architect Professional**
 - **Databricks Certified Data Engineer**
 
 ## 📫 How to reach me
