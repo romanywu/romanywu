@@ -1,6 +1,3 @@
-# Roman Wu
-
-
 ## About Me
 
 Hi there! I'm **Roman Wu**, a passionate Software Engineer with a strong focus on backend development and cloud infrastructure. I enjoy creating scalable, high-performance systems and love learning new technologies to tackle complex challenges.
