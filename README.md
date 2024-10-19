@@ -7,7 +7,7 @@ Hi! I'm **Roman**, a Software Engineer with a passion for backend development an
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- **Java**, **Python**, **SQL**, **NoSQL**, **GraphQL**, **JavaScript/TypeScript**, **Shell Scripting**
+- **Java**, **Python**, **SQL**, **NoSQL**, **GraphQL**, **Shell Scripting**
 
 ### Technologies & Tools
 - **Spring Boot**, **AWS**, **Redis**, **Docker**, **Kubernetes**, **Jenkins**, **Databricks**, **MyBatis**, **Hibernate**, **Nginx**, **RabbitMQ**, **Oracle**, **Git**, **OAuth2**, **Postman**, **MongoDB**
