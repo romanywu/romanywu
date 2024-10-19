@@ -1,6 +1,4 @@
-## About Me
-
-Hi! I'm **Roman Wu**, a Software Engineer with a passion for backend development and cloud infrastructure. I specialize in building scalable, high-performance systems and enjoy learning new technologies.
+Hi! I'm **Roman**, a Software Engineer with a passion for backend development and cloud infrastructure. I specialize in building scalable, high-performance systems and enjoy learning new technologies.
 
 - 🌱 Currently exploring **Spring Boot**, **AWS**, and **Microservices Architecture**.
 - 🚀 Skilled in creating cloud-native solutions and containerized apps using **Docker** and **Kubernetes**.
