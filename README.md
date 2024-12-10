@@ -18,7 +18,7 @@ Hi! I'm **Roman**, a Software Engineer with a passion for backend development an
 ## 🌟 Open to New Opportunities
 
 👀 **Actively Seeking**: Full-time Software Engineering roles for 2025.  
-📄 **Resume**: [Download Here](https://github.com/romanywu/romanywu/blob/main/Roman_Wu_resume.pdf)
+📄 **Resume**: [Download Here](https://github.com/romanywu/romanywu/blob/main/Roman_Wu_Resume.pdf)
 
 ## 📫 How to reach me
 
